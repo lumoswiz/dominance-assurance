@@ -21,8 +21,7 @@
     "forge",
     "foundry",
     "smart-contracts",
-    "solidity",
-    "template"
+    "solidity"
   ],
   "scripts": {
     "clean": "rm -rf cache out",
